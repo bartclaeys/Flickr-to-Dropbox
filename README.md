@@ -36,6 +36,14 @@ If your Flickr library is larger than your hard drive, follow this **Batch-and-S
 4. **Offload**: Once synced, use Dropbox's "Selective Sync" (or "Make Online Only") to remove the local copies, freeing up your disk space.
 5. **Repeat**: Proceed to the next batch of zip files.
 
+## Step 1: The Flickr Data Export (Manual Step)
+The very first step is external to this toolkit and requires patience. You must manually request your data from Flickr:
+
+1. Log in to Flickr and go to **Settings > Your Flickr Data**.
+2. Click **"Request my Flickr Data"**.
+3. **Wait**: Flickr can take anywhere from a few days to **two weeks** to compile your archives.
+4. **Collect Links**: Once your data is ready, Flickr will provide a list of zip files (Photos + Metadata). You will need to copy at least one of these URLs to verify the format, or provide the full list of download links to your AI assistant to handle the batch downloading.
+
 ## Workflow & Usage
 
 ### 0. Cloud Audit (Optional)
